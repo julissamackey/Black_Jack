@@ -1,0 +1,18 @@
+body{
+	background-color: green;
+}
+h1{
+	color:white;
+}
+.yourCards{
+	color: white;
+}
+button{
+	height: 30px;
+}
+header{
+	height:100px;
+}
+.dealerCards{
+	color: gold;
+}
